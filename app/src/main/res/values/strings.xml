@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tasmadian</string>
+    <string name="title_activity_about2">AboutActivity2</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+    <string name="title_activity_image2">ImageActivity2</string>
+    <string name="title_activity_input2">InputActivity2</string>
+    <string name="title_activity_assignment2">AssignmentActivity2</string>
+</resources>
